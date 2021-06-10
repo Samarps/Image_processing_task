@@ -12,4 +12,5 @@ Through 𝐈𝐦𝐚𝐠𝐞 𝐏𝐫𝐨𝐜𝐞𝐬𝐬𝐢𝐧𝐠 using 𝐏
 #### Program 3: "Combine_2photos_to_form_single_photo.ipynb"
 >>> Combined 2 images to form single final image
 
+<br>
 For more details watch this video, where I demonstrated above code by running it: https://www.linkedin.com/posts/samarpratapsingh_vimaldaga-righteducation-educationredefine-activity-6808598581096837120-RBG_
